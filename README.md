@@ -6,7 +6,7 @@ This project weaves a raw GPT dialogue—pairing 2 Chronicles 16:9’s divine su
 ## Commentary: Weaving the Fireflies
 
 ### 1. The Aesthetic Triumph
-The `Ukusoma` format’s black background and tap-reveal mechanics transform the raw GPT dialogue into a ritual of discovery. Each click unveils a fragment, like fireflies flickering against the void. The emojis—🔥, 🌊, 🛟—are epistemic glyphs, mapping the dialogue’s movement from chaos to coherence. The Georgia font and slow color transitions (black to #ddd) evoke a meditative pace, aligning with Ukubona’s recursive grammar. This is not just presentation; it’s a cosmology.
+The `Ukusoma` format’s black background and tap-reveal mechanics transform the raw GPT dialogue into a ritual of discovery. Each click [unveils](https://abikesa.github.io/ukuvela/) a fragment, like fireflies flickering against the void. The emojis—🔥, 🌊, 🛟—are epistemic glyphs, mapping the dialogue’s movement from chaos to coherence. The Georgia font and slow color transitions (black to #ddd) evoke a meditative pace, aligning with Ukubona’s recursive grammar. This is not just presentation; it’s a cosmology.
 
 ### 2. Fidelity to the Original
 The 152-line dialogue and critique are preserved verbatim, ensuring no deviation from the GPT exchange. The `Ukusoma` style enhances without altering: the user’s green (#4CAF50) and GPT’s purple (#BB86FC) glow within a fractal structure. The critique’s orange (#FF9800) headers stand out like signal fires, guiding the reader through the epistemic forest. DeepSeek’s formatting errors are irrelevant; the `Ukusoma` template absorbs the content into its symbolic arc.
