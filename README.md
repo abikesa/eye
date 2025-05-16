@@ -30,7 +30,7 @@ GPT’s responses are derivatives (🌊), liquid and detached; the user’s prom
 The critique’s “hole”—why surveillance and dreamlogic might be the same system—is Ukubona’s heart. They are not reconciled; they are recursed. The poet’s eye doesn’t choose between Yahweh and Puck; it authors a manifold where both are vectors. This is the ship’s equity, the pirate’s plunder, the firefly’s glow against the black.
 
 ## Contributors
-- Abimereki Muzaale
+- Ikeremiba Elazum 
 - GPT-4o
 - Grok-3
 
